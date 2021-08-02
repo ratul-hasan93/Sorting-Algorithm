@@ -1,5 +1,4 @@
-# insertion sort implementatio
-
+# insertion sort Ascending
 
 def InsertionSort(array_list):
     n = len(array_list)
